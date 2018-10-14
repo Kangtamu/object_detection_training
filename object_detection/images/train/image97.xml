@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pictures</folder>
+	<filename>image97.jpg</filename>
+	<path>/home/kangtamu/Pictures/image97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>298</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>collapsed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>74</ymin>
+			<xmax>278</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
